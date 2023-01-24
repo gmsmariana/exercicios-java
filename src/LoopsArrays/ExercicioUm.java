@@ -1,4 +1,4 @@
-package loops;
+package LoopsArrays;
 //exercicio de loops
 
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package loops;
+package LoopsArrays;
 
 import java.util.Scanner;
 // exercicio contagem tabuada 
